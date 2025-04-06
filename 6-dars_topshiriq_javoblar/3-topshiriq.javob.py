@@ -1,0 +1,6 @@
+son1=int(input("Birinchi sonni kiriting: "))
+son2=int(input("Ikkinchi sonni kiriting: "))
+print(son1,"+",son2,"=",son1+son2)
+print(son1,"-",son2,"=",son1-son2)
+print(son1,"*",son2,"=",son1*son2)
+print(son1,"/",son2,"=",son1/son2)
